@@ -4,7 +4,7 @@
 
 [//]: # (Image References)
 
-[image1]: ./RMSE_Values_images/Plot.png "Dataset-1 result"
+[image1]: Plot.png "Dataset-1 result"
 
 ### Overview
 
